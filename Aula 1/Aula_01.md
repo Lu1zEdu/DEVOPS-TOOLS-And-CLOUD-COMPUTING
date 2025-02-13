@@ -1,17 +1,17 @@
-Vamos nos reunir em grupo e aprimorar nossos conceitos, respondendo as seguintes questões abaixo:
+<h1>Vamos nos reunir em grupo e aprimorar nossos conceitos, respondendo as seguintes questões abaixo:<h1>
 
 
-1) Temos um grande desafio com envolvimento direto de TI. Quais são os primeiros passos a serem feitos na organização? Você sentiu falta de algo?
-
-
-
-
-2) Imagine-se na situação de Mac Money? Quais seriam suas principais preocupações?
+<h2> 1. Temos um grande desafio com envolvimento direto de TI. Quais são os primeiros passos a serem feitos na organização? Você sentiu falta de algo?<h2>
+<br>
 
 
 
+<h2> 2. Imagine-se na situação de Mac Money? Quais seriam suas principais preocupações?<h2>
 
-3) Imagine-se na situação de Esteves Jobs? Quais seriam suas principais preocupações?
+
+
+
+<h2> 3. Imagine-se na situação de Esteves Jobs? Quais seriam suas principais preocupações? <h2>
 
 
 
